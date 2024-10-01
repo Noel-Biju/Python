@@ -1,3 +1,6 @@
+#Python Program to get student details
+#Author: Noel Biju
+#Date: 01/10/2024
 Name=input("Enter the student Name:")
 Roll_No=int(input("Enter the students Roll No:"))
 Roll_No+=1
