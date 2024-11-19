@@ -4,7 +4,7 @@ employees=[
     ("shaju","ec",15000),
     ("biju","cse",9000)
 ]
-salary_threshold=10000
+salary_threshold=int(input("Enter the threshold:"))
 total_annual_expense=0
 for employee in employees:
     employee_name,department,monthly_salary=employee
